@@ -10,6 +10,8 @@ For help, see: https://nodejs.org/en/docs/inspector
 
 Open `chrome://inspect/#devices` in your Chrome browser and inspect the target.
 
+Chrome DevTools will open in a new window and your Terminal will log `Debugger attached.`.
+
 When you go to `http://localhost:8080/`, the debugger will break at the breakpoint.
 
 See [Debugging Guide](https://nodejs.org/en/docs/guides/debugging-getting-started/) for more information.
